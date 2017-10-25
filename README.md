@@ -2,7 +2,6 @@
 
 ```
 (ここに実行ログをコピペする)
-```
 mollgula:~/workspace (master) $ pry
 [1] pry(main)> puts "こんにちは"
 こんにちは
@@ -285,3 +284,5 @@ ittiyはスーパーサイヤ人2になった
 ittiyはスーパーサイヤ人3になった
 => nil
 [85] pry(main)> 
+
+```
